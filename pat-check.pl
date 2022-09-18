@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-# allchks - program to check all the ACA PATS
+# pat-check - program to check all the ACA PATS
 # Author - Tsiolkovsky
 # Version: 1.0
 
